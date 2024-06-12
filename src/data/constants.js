@@ -194,7 +194,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWTD9OasxnFeLmqGEGZY8FzzC3J0v57crRQ&s",
     school: "Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel",
     date: "Dec 2021 - May 2025",
-    grade: " 9.302 CGPA",
+    grade: " 9.406 CGPA",
     desc: "Currently pursuing a Bachelor's degree in Computer Engineering at Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel. Completed 5 semesters and have a CGPA of 9.302. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
     degree: "Bachelor of Engineering - B.E. Computer Engineering",
   },
@@ -205,7 +205,7 @@ export const education = [
     date: "Apr 2020 - Apr 2021",
     grade: " 90.83%",
     desc: "Completed my Higher Secondary Education at Citizen's Junior College of Commerce & Science, Uran",
-    degree: "H.S.C (XII)",
+    degree: "H.S.C (XII), Science",
   },
   {
     id: 2,
@@ -214,7 +214,7 @@ export const education = [
     date: "Mar 2018 - Apr 2019",
     grade: " 86.80%",
     desc: "Completed my Higher Secondary Education at Rotary English Medium High School, Uran.",
-    degree: "S.S.C (X), Science with Computer",
+    degree: "S.S.C (X)",
   },
 ];
 
