@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. My passion for learning drives me to consistently deliver high-quality results. With a positive attitude and a growth mindset, I am committed to making meaningful contributions and achieving excellence in every endeavor.",
   github: "https://github.com/AmbarQadri",
   resume:
-    "https://drive.google.com/file/d/1OIoH0LTZnKLq8qk8AMr3ZP29C1B2LJEO/view?usp=sharing",
+    "https://drive.google.com/file/d/1vJffayoBIY4O3KTJGoTzxxuL0e5pHbfk/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohammed-ambar-qadri/",
   insta: "https://www.instagram.com/ambar_qadri/",
 };
