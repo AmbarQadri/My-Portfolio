@@ -175,7 +175,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxYpb-FfZRevGJ3tfe1hR9A9pfKh-lLE5Cg&s",
     role: "Documentation & Content Writing Lead",
     company: "Programmers Club",
-    date: "June 2022 - Present",
+    date: "July 2022 - June 2024",
     desc: "As a Documentation & Content Writing Lead at Programmers Club, I streamline information, ensure clarity, and elevate content quality for effective communication and knowledge sharing. I drive the content strategy to ensure that our materials are engaging, informative, and aligned with our goals.",
     skills: [
       "Content Writing",
