@@ -195,7 +195,7 @@ export const education = [
     school: "Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel",
     date: "Dec 2021 - May 2025",
     grade: " 9.406 CGPA",
-    desc: "Currently pursuing a Bachelor's degree in Computer Engineering at Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel. Completed 5 semesters and have a CGPA of 9.302. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
+    desc: "Currently pursuing a Bachelor's degree in Computer Engineering at Anjuman-I-Islam's Kalsekar Technical Campus, New Panvel. Completed 5 semesters and have a CGPA of 9.406. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
     degree: "Bachelor of Engineering - B.E. Computer Engineering",
   },
   {
@@ -204,7 +204,7 @@ export const education = [
     school: "Citizen's Junior College of Science & Commerce, uran",
     date: "Apr 2020 - Apr 2021",
     grade: " 90.83%",
-    desc: "Completed my Higher Secondary Education at Citizen's Junior College of Commerce & Science, Uran",
+    desc: "Completed my Higher Secondary Education at Citizen's Junior College of Commerce & Science, Uran.",
     degree: "H.S.C (XII), Science",
   },
   {
@@ -213,7 +213,7 @@ export const education = [
     school: "Rotary English Medium High School, Uran",
     date: "Mar 2018 - Apr 2019",
     grade: " 86.80%",
-    desc: "Completed my Higher Secondary Education at Rotary English Medium High School, Uran.",
+    desc: "Completed my Secondary Education at Rotary English Medium High School, Uran.",
     degree: "S.S.C (X)",
   },
 ];
