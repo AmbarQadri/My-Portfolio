@@ -139,7 +139,7 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to="/">
-          <ColorText>&lt;</ColorText>Mohammed Ambar
+          <ColorText>&lt;</ColorText>Ambar
           <div style={{ color: theme.primary }}>/</div>Qadri
           <ColorText>&gt;</ColorText>
         </NavLogo>
