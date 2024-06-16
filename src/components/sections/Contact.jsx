@@ -135,7 +135,8 @@ const Contact = () => {
         "service_43iz03o",
         "template_vv480zb",
         form.current,
-        "GNmgvbRpHlX8-4zuy"
+        "GNmgvbRpHlX8-4zuy",
+        { useFetchOptions: true }
       )
       .then(
         (result) => {
