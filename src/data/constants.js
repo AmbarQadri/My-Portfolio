@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Mohammed Ambar Qadri",
-  roles: ["MERN Stack Developer", "Learner"],
+  roles: ["Final Year Student", "MERN Stack Developer", "Learner"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. My passion for learning drives me to consistently deliver high-quality results. With a positive attitude and a growth mindset, I am committed to making meaningful contributions and achieving excellence in every endeavor.",
   github: "https://github.com/AmbarQadri",
